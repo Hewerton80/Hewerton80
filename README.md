@@ -39,6 +39,7 @@ I am a fullstack programmer, with experience in Javascript, typescript, Node.js,
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-336791?style=plastic&logoColor=white&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-Mysql-4479A1?style=plastic&logoColor=white&logo=mysql)
 ![React](https://img.shields.io/badge/-React-61dafb?style=plastic&logoColor=black&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=plastic&logoColor=black&logo=react)
 <!-- <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> -->
 <!-- ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=plastic&logoColor=white&logo=react) -->
 ![Windows](https://img.shields.io/badge/-Windows-0078d6?style=plastic&logo=windows)
