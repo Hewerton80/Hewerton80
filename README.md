@@ -43,6 +43,8 @@ I am a fullstack programmer, with experience in Javascript, typescript, Node.js,
 <!-- <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> -->
 <!-- ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=plastic&logoColor=white&logo=react) -->
 ![Windows](https://img.shields.io/badge/-Windows-0078d6?style=plastic&logo=windows)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 <!-- ---
