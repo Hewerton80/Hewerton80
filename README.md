@@ -27,23 +27,22 @@ I am a fullstack programmer, with experience in Javascript, typescript, Node.js,
 ---
 
 ### 💻 &nbsp; My skills: <br/> <br/> 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=plastic&logoColor=white&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-NodeJs-339933?style=plastic&logoColor=white&logo=node-dot-js)
-![NPM](https://img.shields.io/badge/-npm-cb3837?style=plastic&logoColor=white&logo=npm)
-![C++](https://img.shields.io/badge/-C++-00599c?style=plastic&logoColor=white&logo=c%2B%2B)
-![CSS](https://img.shields.io/badge/-CSS-1572b6?style=plastic&logoColor=white&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logoColor=white&logo=html5) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logoColor=white&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logoColor=000&logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-336791?style=plastic&logoColor=white&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-Mysql-4479A1?style=plastic&logoColor=white&logo=mysql)
-![React](https://img.shields.io/badge/-React-61dafb?style=plastic&logoColor=black&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=plastic&logoColor=black&logo=react)
-<!-- <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> -->
-<!-- ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=plastic&logoColor=white&logo=react) -->
-![Windows](https://img.shields.io/badge/-Windows-0078d6?style=plastic&logo=windows)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-eeeeee?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 
 
