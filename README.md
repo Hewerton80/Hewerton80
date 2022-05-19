@@ -12,16 +12,7 @@ I am a fullstack programmer, with experience in Javascript, typescript, Node.js,
 ---
 
 
-### 📊 My Stats:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hewerton80&theme=dracula&show_icons=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewerton80&layout=compact&theme=dracula" /></td>
-  
-  </tr>  
-</table>
-</center>
+
 
 
 ---
@@ -44,7 +35,16 @@ I am a fullstack programmer, with experience in Javascript, typescript, Node.js,
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-
+### 📊 My Stats:
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hewerton80&theme=dracula&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewerton80&layout=compact&theme=dracula" /></td>
+  
+  </tr>  
+</table>
+</center>
 
 <!-- ---
 
