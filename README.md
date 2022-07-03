@@ -2,9 +2,11 @@
 
 My name is Hewerton Adão <br/>
 Born and Raised in Brazil <br/>
-🎓 &nbsp;Graduating from the Bachelor of Science and Technology with emphasis in Computer Engineering at [UFRN](https://www.ufrn.br/). <br/>
+I'm a frontend programmer who's been studying programming for 6 years, I've been in the market for 3 years.
 
-I am a fullstack programmer, with experience in Javascript, typescript, Node.js, ReactJs, express, relational database, bootstrap, html, css. At the moment I study React Native and I'm interested in scalability, DevOps and testing practices.
+From back to front, I worked on several projects, such as: management panels, education platform, marketplace, landing pages, blogs, etc.
+
+I have experience in Javascript, typescript, Node.js, express, ReactJs, Next Js, relational database, bootstrap, tailwind, styled components, html, css, scss, building interfaces based on Figma and Adobe templates. I am currently studying React Native and am interested in scalability and testing practices.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xiao-yong-kong-680632127/)](https://www.linkedin.com/in/hewerton-ad%C3%A3o-5b7952127/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=plastic&logo=Gmail&logoColor=white&link=mailto:xiaoykong06@gmail.com)](mailto:hewerton80@gmail.com) 
